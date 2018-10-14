@@ -22,3 +22,12 @@ Some of my talks slides' during conferences and IT events
     *Presented at: UConf2.0 organized by UDevCommunity, University of Sciences and Technology of Oran (USTO-MB).*
 
     What's the difference between an IoT and smart devices? are "connected" devices necessarily "smart"?    
+
+## Other
+- [**24 freelancing websites for remote working (february 2018)**](24-freelancing-websites-for-remote-working-[Khotwa-2018-02].pdf)
+
+    *Presented at: Khotwa Tour, Conventions Center of Oran.*
+
+    Is freelancing for everyone? What are the famous freelancing websites for remote working? Some tips and advices for freelancers in the digital era. 
+
+    
