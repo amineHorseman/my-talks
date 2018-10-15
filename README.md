@@ -1,6 +1,6 @@
 # my-talks
 
-Some of my talks slides' during conferences and IT events
+Some slides of my talks presented in conferences and IT events
 
 ## Robotics
 - [**Robots Brains vs. Computer Brains (march 2018)**](computer-brains-vs-robots-brains-[uconf3-2018-03].html)
@@ -22,6 +22,13 @@ Some of my talks slides' during conferences and IT events
     *Presented at: UConf2.0 organized by UDevCommunity, University of Sciences and Technology of Oran (USTO-MB).*
 
     What's the difference between an IoT and smart devices? are "connected" devices necessarily "smart"?    
+
+## Digital marketing
+- [**Marketing for cultural ONGs \[FR\](december 2017)\[fr\]**](marketing-for-cultural-ONGs-[jtje-2017-12].html)
+
+    *Presented at: TakafaMihnati workshops, organized by JTJE Association, Oran.*
+
+    An introdcution to Marketing components and strategies, and how to apply it in the context of cultural non-governmental organizations.
 
 ## Other
 - [**24 freelancing websites for remote working (february 2018)**](24-freelancing-websites-for-remote-working-[Khotwa-2018-02].pdf)
