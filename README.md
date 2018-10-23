@@ -9,6 +9,8 @@ Some slides of my talks presented in conferences and IT events
 
     What are the differences between a robot and a computer? Is there really a difference?
     An open-question about what we think "robots" are and what we don't.
+    
+    [View/Fork it in slides.com](https://slides.com/aminebendahmane/computer-brains-vs-robots-brains-uconf3)
 
 ## IoT
 - [**An introduction to IoT infrastructures (march 2018)**](intro-to-iot-infrastructure-[ipd2-2018-03].html)
@@ -16,12 +18,16 @@ Some slides of my talks presented in conferences and IT events
     *Presented at: iPD2 (iProgramming Days #2) organized by Seekers Scientific Club, University Farès Yahia at Medea.*
 
     An introdcution to Internet of Things and How to create an IoT infrastructure?
+    
+    [View/Fork it in slides.com](https://slides.com/aminebendahmane/deck-5-3)
 
 - [**IoT & Smart Devices (march 2017)**](iot-&-smart-devices-[uconf2-2017-03].html)
 
     *Presented at: UConf2.0 organized by UDevCommunity, University of Sciences and Technology of Oran (USTO-MB).*
 
     What's the difference between an IoT and smart devices? are "connected" devices necessarily "smart"?    
+    
+    [View/Fork it in slides.com](https://slides.com/aminebendahmane/iot-smart-devices-uconf2)
 
 ## Digital marketing
 - [**Marketing for cultural ONGs \[FR\](december 2017)\[fr\]**](marketing-for-cultural-ONGs-[jtje-2017-12].html)
@@ -29,6 +35,8 @@ Some slides of my talks presented in conferences and IT events
     *Presented at: TakafaMihnati workshops, organized by JTJE Association, Oran.*
 
     An introdcution to Marketing components and strategies, and how to apply it in the context of cultural non-governmental organizations.
+    
+    [View/Fork it in slides.com](https://slides.com/aminebendahmane/marketing-for-cultural-ongs-december-2017)
 
 ## Other
 - [**24 freelancing websites for remote working (february 2018)**](24-freelancing-websites-for-remote-working-[Khotwa-2018-02].pdf)
