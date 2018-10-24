@@ -19,7 +19,7 @@ Some slides of my talks presented in conferences and IT events
 
     An introdcution to Internet of Things and How to create an IoT infrastructure?
     
-    [View/Fork it in slides.com](https://slides.com/aminebendahmane/deck-5-3)
+    [View/Fork it in slides.com](https://slides.com/aminebendahmane/into-to-iot-ipd2-2018-03)
 
 - [**IoT & Smart Devices (march 2017)**](iot-&-smart-devices-[uconf2-2017-03].html)
 
