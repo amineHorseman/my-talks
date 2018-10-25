@@ -37,6 +37,14 @@ Some slides of my talks presented in conferences and IT events
     An introdcution to Marketing components and strategies, and how to apply it in the context of cultural non-governmental organizations.
     
     [View/Fork it in slides.com](https://slides.com/aminebendahmane/marketing-for-cultural-ongs-december-2017)
+    
+## Open science / open education
+- [**Open science, open education and open data in Algeria (october 2018)**]()
+
+    *Presented at: *
+
+    .... 
+   
 
 ## Other
 - [**24 freelancing websites for remote working (february 2018)**](24-freelancing-websites-for-remote-working-[Khotwa-2018-02].pdf)
