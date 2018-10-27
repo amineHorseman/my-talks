@@ -39,11 +39,11 @@ Some slides of my talks presented in conferences and IT events
     [View/Fork it in slides.com](https://slides.com/aminebendahmane/marketing-for-cultural-ongs-december-2017)
     
 ## Open science / open education
-- [**Open science, open education and open data in Algeria (october 2018)**]()
+- [**Open science, open education and open data in Algeria (october 2018)**](Open-science-open-data-and-open-education.pdf)
 
-    *Presented at: *
+    *Presented at: The Next Step, organized by Engineering Creativity Club ECC, Applied Sciences School of Tlemcen.*
 
-    .... 
+    A brief history of Open Source movemnt and how it affected the world of education and science + some examples of open initiatives in Algeria.
    
 
 ## Other
