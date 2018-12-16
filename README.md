@@ -10,7 +10,16 @@ Some slides of my talks presented in conferences and IT events
     What are the differences between a robot and a computer? Is there really a difference?
     An open-question about what we think "robots" are and what we don't.
     
-    [View/Fork it in slides.com](https://slides.com/aminebendahmane/computer-brains-vs-robots-brains-uconf3)
+    [Read it online in slides.com](https://slides.com/aminebendahmane/computer-brains-vs-robots-brains-uconf3)
+
+## AI / Machine Learning
+- [**Deep Learning and Neural Networks (dec 2018)**](Deep-Learning-and-Neural-Networks-[DevDay2.0-2018-12].pdf)
+
+    *Presented at: DevDay2.0 organized by Alphabit, Ecole Superieur d'Informatique of SBA (ESI SBA).*
+
+    Explaining neural networks and deep learning using simple mathematics and graphical examples.
+    
+    [Read it online in slideshare.com](https://www.slideshare.net/AmineBendahmane/deep-learning-and-neural-networks-using-simple-mathematics-126007625)
 
 ## IoT
 - [**An introduction to IoT infrastructures (march 2018)**](intro-to-iot-infrastructure-[ipd2-2018-03].html)
@@ -19,7 +28,7 @@ Some slides of my talks presented in conferences and IT events
 
     An introdcution to Internet of Things and How to create an IoT infrastructure?
     
-    [View/Fork it in slides.com](https://slides.com/aminebendahmane/into-to-iot-ipd2-2018-03)
+    [Read it online in slides.com](https://slides.com/aminebendahmane/into-to-iot-ipd2-2018-03)
 
 - [**IoT & Smart Devices (march 2017)**](iot-&-smart-devices-[uconf2-2017-03].html)
 
@@ -27,7 +36,7 @@ Some slides of my talks presented in conferences and IT events
 
     What's the difference between an IoT and smart devices? are "connected" devices necessarily "smart"?    
     
-    [View/Fork it in slides.com](https://slides.com/aminebendahmane/iot-smart-devices-uconf2)
+    [Read it online in slides.com](https://slides.com/aminebendahmane/iot-smart-devices-uconf2)
 
 ## Digital marketing
 - [**Marketing for cultural ONGs \[FR\](december 2017)\[fr\]**](marketing-for-cultural-ONGs-[jtje-2017-12].html)
@@ -36,7 +45,7 @@ Some slides of my talks presented in conferences and IT events
 
     An introdcution to Marketing components and strategies, and how to apply it in the context of cultural non-governmental organizations.
     
-    [View/Fork it in slides.com](https://slides.com/aminebendahmane/marketing-for-cultural-ongs-december-2017)
+    [Read it online in slides.com](https://slides.com/aminebendahmane/marketing-for-cultural-ongs-december-2017)
     
 ## Open science / open education
 - [**Open science, open education and open data in Algeria (october 2018)**](Open-science-open-data-and-open-education.pdf)
@@ -45,6 +54,7 @@ Some slides of my talks presented in conferences and IT events
 
     A brief history of Open Source movemnt and how it affected the world of education and science + some examples of open initiatives in Algeria.
    
+   [Read it online in slideshare.com](https://www.slideshare.net/AmineBendahmane/open-science-open-data-and-open-education)
 
 ## Other
 - [**24 freelancing websites for remote working (february 2018)**](24-freelancing-websites-for-remote-working-[Khotwa-2018-02].pdf)
