@@ -1,4 +1,4 @@
-# my-talks
+# My talks
 
 Some slides of my talks presented in conferences and IT events
 
@@ -11,6 +11,8 @@ Some slides of my talks presented in conferences and IT events
     An open-question about what we think "robots" are and what we don't.
     
     [Read it online in slides.com](https://slides.com/aminebendahmane/computer-brains-vs-robots-brains-uconf3)
+    
+    [Video recording of the talk (in Algerian dialect)](https://www.youtube.com/watch?v=RNUZuv0UiR0)   
 
 ## AI / Machine Learning
 - [**Deep Learning and Neural Networks (dec 2018)**](Deep-Learning-and-Neural-Networks-[DevDay2.0-2018-12].pdf)
