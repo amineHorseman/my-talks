@@ -65,4 +65,9 @@ Some slides of my talks presented in conferences and IT events
 
     Is freelancing for everyone? What are the famous freelancing websites for remote working? Some tips and advices for freelancers in the digital era. 
 
-    
+- [**Your path to learn photography (september 2019)**](link-here.com)
+
+    *Presented at: Scientific Leisures Center of Oran.*
+
+    Your want to learn photography but you don't know where to start? This is a complete roadmap to learn photography from the very basics to advanced level.
+  
