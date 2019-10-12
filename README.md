@@ -15,6 +15,13 @@ Some slides of my talks presented in conferences and IT events
     [Video recording of the talk (in Algerian dialect)](https://www.youtube.com/watch?v=RNUZuv0UiR0)   
 
 ## AI / Machine Learning
+
+- [**Comuputer Vision using OpenCV and Python (live coding videos in arabic)(sep 2019)**](https://github.com/amineHorseman/opencv-eldjmaa-live-coding)
+
+    An introduction to OpenCV and python, during a live streaming session recorded by ElDjmaa.
+
+    [link to code and videos](https://github.com/amineHorseman/opencv-eldjmaa-live-coding)
+
 - [**Deep Learning and Neural Networks (dec 2018)**](Deep-Learning-and-Neural-Networks-[DevDay2.0-2018-12].pdf)
 
     *Presented at: DevDay2.0 organized by Alphabit, Ecole Superieur d'Informatique of SBA (ESI SBA).*
