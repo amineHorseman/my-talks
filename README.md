@@ -15,7 +15,14 @@ Some slides of my talks presented in conferences and IT events
     [Video recording of the talk (in Algerian dialect)](https://www.youtube.com/watch?v=RNUZuv0UiR0)   
 
 ## AI / Machine Learning
+- [**Data quality is more important than you think (october 2019)**](https://www.slideshare.net/AmineBendahmane/data-quality-is-more-important-than-you-think)
 
+    *Presented at: DevFest Algiers 2019 organized by GDG Algiers, National Polytechnic School of Algiers.*
+
+    Data quality is important for Machine Learning applications. Sometimes the data is more important than the model, in this slides I presend some tips & tricks I learned during real world projects I ported to production.
+    
+    [Read it online in slideshare.net](https://www.slideshare.net/AmineBendahmane/data-quality-is-more-important-than-you-think)
+    
 - [**Comuputer Vision using OpenCV and Python (live coding videos in arabic)(sep 2019)**](https://github.com/amineHorseman/opencv-eldjmaa-live-coding)
 
     An introduction to OpenCV and python, during a live streaming session recorded by ElDjmaa.
