@@ -15,6 +15,13 @@ Some slides of my talks presented in conferences and IT events
     [Video recording of the talk (in Algerian dialect)](https://www.youtube.com/watch?v=RNUZuv0UiR0)   
 
 ## AI / Machine Learning
+
+- [**AI techniques for tourism-oriented applications (december 2019)**](https://www.slideshare.net/AmineBendahmane/ai-techniques-for-tourismoriented-applications)
+
+    *Presented at: Citi Oran'19 conference organized by University Oran 1*
+
+    What is AI and how can it be used to enhance tourism and travellers experience. A quick tour to smart-tourism applications and machine learning techniques.
+
 - [**Data quality is more important than you think (october 2019)**](https://www.slideshare.net/AmineBendahmane/data-quality-is-more-important-than-you-think)
 
     *Presented at: DevFest Algiers 2019 organized by GDG Algiers, National Polytechnic School of Algiers.*
