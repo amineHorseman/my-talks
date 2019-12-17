@@ -22,6 +22,8 @@ Some slides of my talks presented in conferences and IT events
 
     What is AI and how can it be used to enhance tourism and travellers experience. A quick tour to smart-tourism applications and machine learning techniques.
 
+    [Read it online in slideshare.net](https://www.slideshare.net/AmineBendahmane/ai-techniques-for-tourismoriented-applications)
+
 - [**Data quality is more important than you think (october 2019)**](https://www.slideshare.net/AmineBendahmane/data-quality-is-more-important-than-you-think)
 
     *Presented at: DevFest Algiers 2019 organized by GDG Algiers, National Polytechnic School of Algiers.*
