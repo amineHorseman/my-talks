@@ -3,6 +3,16 @@
 Some slides of my talks presented in conferences and IT events
 
 ## Robotics
+- [**ROS - An open source platform for robotics software developers (april 2021)**](https://www.slideshare.net/AmineBendahmane/ros-an-open-source-platform-for-robotics-software-developers-lecturepdf)
+
+    *Presented at: Algeria2.0*
+
+    A lecture about how ROS works and the key differences between ROS1 and ROS2.
+    
+    [Read it online in slides.com](https://www.slideshare.net/AmineBendahmane/ros-an-open-source-platform-for-robotics-software-developers-lecturepdf)
+    
+    [Video recording of the talk (in English)](https://youtu.be/DtVMnPve_JY)   
+
 - [**Robots Brains vs. Computer Brains (march 2018)**](computer-brains-vs-robots-brains-[uconf3-2018-03].html)
 
     *Presented at: UConf3.0 organized by UDevCommunity, University of Sciences and Technology of Oran (USTO-MB).*
